@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**10897** tools · updated 2026-11-14
+**10914** tools · updated 2026-11-15
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-11-15)
+
+- [ms-swift](https://github.com/modelscope/ms-swift)
+- [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
+- [LightEval](https://github.com/huggingface/lighteval)
+- [Surya](https://github.com/datalab-to/surya)
+- [Detectron2](https://github.com/facebookresearch/detectron2)
+- [GFPGAN](https://github.com/TencentARC/GFPGAN)
+- [LLaVA](https://github.com/haotian-liu/LLaVA)
+- [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)
+- [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
+- [IndexTTS](https://github.com/index-tts/index-tts)
+- [ONNX Runtime](https://onnxruntime.ai)
+- [Colossal-AI](https://www.colossalai.org)
+- [MediaPipe](https://github.com/google-ai-edge/mediapipe)
+- [Inspect AI](https://inspect.aisi.org.uk)
+- [Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
 
 ## Recently added / 最近上架 (2026-11-14)
 
