@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**10914** tools · updated 2026-11-15
+**10931** tools · updated 2026-11-16
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-11-16)
+
+- [FlashAttention](https://github.com/Dao-AILab/flash-attention)
+- [bitsandbytes](https://huggingface.co/docs/bitsandbytes)
+- [xFormers](https://github.com/facebookresearch/xformers)
+- [Accelerate](https://huggingface.co/docs/accelerate)
+- [TorchTune](https://github.com/meta-pytorch/torchtune)
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR)
+- [SpeechBrain](https://speechbrain.github.io)
+- [NVIDIA NeMo](https://docs.nvidia.com/nemo/)
+- [Liger Kernel](https://github.com/linkedin/Liger-Kernel)
+- [pyannote.audio](https://github.com/pyannote/pyannote-audio)
+- [spaCy](https://spacy.io)
+- [Ray](https://www.ray.io)
+- [LeRobot](https://huggingface.co/docs/lerobot)
+- [TIMM](https://huggingface.co/docs/timm)
+- [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)
 
 ## Recently added / 最近上架 (2026-11-15)
 
