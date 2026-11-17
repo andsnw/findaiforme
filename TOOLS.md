@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**10931** tools · updated 2026-11-16
+**10946** tools · updated 2026-11-17
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-11-17)
+
+- [PyTorch](https://pytorch.org)
+- [TensorFlow](https://www.tensorflow.org)
+- [JAX](https://docs.jax.dev)
+- [Keras](https://keras.io)
+- [Text Generation Inference](https://huggingface.co/docs/text-generation-inference)
+- [Text Embeddings Inference](https://huggingface.co/docs/text-embeddings-inference)
+- [Safetensors](https://huggingface.co/docs/safetensors)
+- [Tokenizers](https://huggingface.co/docs/tokenizers)
+- [Hugging Face Datasets](https://huggingface.co/docs/datasets)
+- [Optimum](https://huggingface.co/docs/optimum)
+- [OpenVINO](https://docs.openvino.ai)
+- [TorchAO](https://github.com/pytorch/ao)
+- [Triton](https://triton-lang.org)
+- [ExecuTorch](https://docs.pytorch.org/executorch)
+- [CTranslate2](https://github.com/OpenNMT/CTranslate2)
 
 ## Recently added / 最近上架 (2026-11-16)
 
