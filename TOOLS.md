@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**10946** tools · updated 2026-11-17
+**10963** tools · updated 2026-11-19
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-11-19)
+
+- [NVIDIA Triton Inference Server](https://github.com/triton-inference-server/server)
+- [LightLLM](https://github.com/ModelTC/lightllm)
+- [FastChat](https://github.com/lm-sys/FastChat)
+- [ExLlamaV2](https://github.com/turboderp-org/exllamav2)
+- [OpenCompass](https://opencompass.org.cn)
+- [PaddlePaddle](https://www.paddlepaddle.org.cn)
+- [ESPnet](https://espnet.github.io/espnet/)
+- [WeNet](https://github.com/wenet-e2e/wenet)
+- [Bark](https://github.com/suno-ai/bark)
+- [MMDetection](https://github.com/open-mmlab/mmdetection)
+- [InsightFace](https://github.com/deepinsight/insightface)
+- [Demucs](https://github.com/facebookresearch/demucs)
+- [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter)
+- [Torchtitan](https://github.com/pytorch/torchtitan)
+- [AnimateDiff](https://github.com/guoyww/AnimateDiff)
 
 ## Recently added / 最近上架 (2026-11-17)
 
