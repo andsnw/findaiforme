@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**10963** tools · updated 2026-11-19
+**10978** tools · updated 2026-11-20
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-11-20)
+
+- [KTransformers](https://github.com/kvcache-ai/ktransformers)
+- [AirLLM](https://github.com/lyogavin/airllm)
+- [Chonkie](https://docs.chonkie.ai)
+- [GOT-OCR 2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)
+- [Nougat](https://facebookresearch.github.io/nougat/)
+- [CodeFormer](https://github.com/sczhou/CodeFormer)
+- [InstantID](https://instantid.github.io/)
+- [MeloTTS](https://github.com/myshell-ai/MeloTTS)
+- [Nerfstudio](https://docs.nerf.studio)
+- [tinygrad](https://tinygrad.org)
+- [Apache TVM](https://tvm.apache.org)
+- [Garak](https://github.com/NVIDIA/garak)
+- [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
+- [MindSpore](https://www.mindspore.cn)
+- [NCNN](https://github.com/Tencent/ncnn)
 
 ## Recently added / 最近上架 (2026-11-19)
 
