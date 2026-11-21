@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**10978** tools · updated 2026-11-20
+**10999** tools · updated 2026-11-21
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-11-21)
+
+- [Segment Anything](https://github.com/facebookresearch/segment-anything)
+- [Supervision](https://supervision.roboflow.com)
+- [YOLO-World](https://github.com/AILab-CVC/YOLO-World)
+- [MMSegmentation](https://github.com/open-mmlab/mmsegmentation)
+- [MMPose](https://github.com/open-mmlab/mmpose)
+- [LitGPT](https://github.com/Lightning-AI/litgpt)
+- [Olmo](https://allenai.org/olmo)
+- [ChatTTS](https://github.com/2noise/ChatTTS)
+- [StyleTTS 2](https://github.com/yl4579/StyleTTS2)
+- [Parler-TTS](https://github.com/huggingface/parler-tts)
+- [Flax](https://github.com/google/flax)
+- [KServe](https://kserve.github.io/website/)
+- [gsplat](https://docs.gsplat.studio)
+- [Molmo](https://github.com/allenai/molmo)
+- [IREE](https://iree.dev)
 
 ## Recently added / 最近上架 (2026-11-20)
 

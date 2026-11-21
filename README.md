@@ -20,9 +20,9 @@
 
 ## 目录规模 / Catalog size
 
-**以官网实时数据为准**（核对日期：2026-11-20，来源：D1 `aitoolsdir_tools` / [findaifor.me](https://findaifor.me/)）：
+**以官网实时数据为准**（核对日期：2026-11-21，来源：D1 `aitoolsdir_tools` / [findaifor.me](https://findaifor.me/)）：
 
-- 约 **10,978** 个 AI 工具
+- 约 **10,999** 个 AI 工具
 - **12** 个分类
 
 本仓库 `tools/`、`TOOLS.md` 是便于浏览的 Markdown 快照（上次全量导出：2026-11-01，约 10,705 条 / 当时 11 个分类文件）。快照可能与官网略有出入；**请以 https://findaifor.me/ 为准**。
@@ -34,20 +34,20 @@
 
 | Category | 中文 | Live count | Live | Snapshot file |
 |---|---|---:|---|---|
-| Image & Design | 图像与设计 | 2,761 | [findaifor.me](https://findaifor.me/categories/image-design) | [tools/image-design.md](./tools/image-design.md) |
-| Video & Audio | 视频与音频 | 1,422 | [findaifor.me](https://findaifor.me/categories/video-audio) | [tools/video-audio.md](./tools/video-audio.md) |
+| Image & Design | 图像与设计 | 2,772 | [findaifor.me](https://findaifor.me/categories/image-design) | [tools/image-design.md](./tools/image-design.md) |
+| Video & Audio | 视频与音频 | 1,423 | [findaifor.me](https://findaifor.me/categories/video-audio) | [tools/video-audio.md](./tools/video-audio.md) |
 | Writing & Content | 写作与内容 | 2,240 | [findaifor.me](https://findaifor.me/categories/writing-content) | [tools/writing-content.md](./tools/writing-content.md) |
-| Coding & Dev Tools | 编程与开发 | 1,025 | [findaifor.me](https://findaifor.me/categories/coding) | [tools/coding.md](./tools/coding.md) |
+| Coding & Dev Tools | 编程与开发 | 1,032 | [findaifor.me](https://findaifor.me/categories/coding) | [tools/coding.md](./tools/coding.md) |
 | Productivity | 效率工具 | 2,156 | [findaifor.me](https://findaifor.me/categories/productivity) | [tools/productivity.md](./tools/productivity.md) |
 | Marketing & SEO | 营销与 SEO | 1,498 | [findaifor.me](https://findaifor.me/categories/marketing-seo) | [tools/marketing-seo.md](./tools/marketing-seo.md) |
-| Voice & Translation | 语音与翻译 | 716 | [findaifor.me](https://findaifor.me/categories/voice-translation) | [tools/voice-translation.md](./tools/voice-translation.md) |
+| Voice & Translation | 语音与翻译 | 719 | [findaifor.me](https://findaifor.me/categories/voice-translation) | [tools/voice-translation.md](./tools/voice-translation.md) |
 | Business & Operations | 商业与运营 | 1,129 | [findaifor.me](https://findaifor.me/categories/business) | [tools/business.md](./tools/business.md) |
 | Education & Research | 教育与研究 | 1,181 | [findaifor.me](https://findaifor.me/categories/education) | [tools/education.md](./tools/education.md) |
 | Search & Data | 搜索与数据 | 514 | [findaifor.me](https://findaifor.me/categories/search-data) | [tools/search-data.md](./tools/search-data.md) |
 | Automation & Workflow | 自动化与工作流 | 310 | [findaifor.me](https://findaifor.me/categories/automation) | _(snapshot pending — see live)_ |
 | Directories & Discovery | 目录与发现 | 320 | [findaifor.me](https://findaifor.me/categories/directories) | [tools/directories.md](./tools/directories.md) |
 
-> 各分类 live count 取自官网分类页「N个工具」；工具可跨分类，分类合计会大于全站去重总数 10,978。
+> 各分类 live count 取自官网分类页「N个工具」；工具可跨分类，分类合计会大于全站去重总数 10,999。
 
 ## 站点功能（与官网一致）
 
