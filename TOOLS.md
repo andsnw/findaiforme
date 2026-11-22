@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**10999** tools · updated 2026-11-21
+**11018** tools · updated 2026-11-22
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-11-22)
+
+- [CoTracker](https://github.com/facebookresearch/co-tracker)
+- [DINOv2](https://github.com/facebookresearch/dinov2)
+- [Fish Speech](https://github.com/fishaudio/fish-speech)
+- [Stable Audio Tools](https://github.com/Stability-AI/stable-audio-tools)
+- [Kohya sd-scripts](https://github.com/kohya-ss/sd-scripts)
+- [AI Toolkit by Ostris](https://github.com/ostris/ai-toolkit)
+- [PaperQA2](https://github.com/Future-House/paper-qa)
+- [RVC WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
+- [Silero VAD](https://github.com/snakers4/silero-vad)
+- [Argos Translate](https://github.com/argosopentech/argos-translate)
+- [LibreTranslate](https://libretranslate.com)
+- [Coqui TTS](https://github.com/idiap/coqui-ai-TTS)
+- [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails)
+- [Distilabel](https://distilabel.argilla.io)
+- [DataTrove](https://github.com/huggingface/datatrove)
 
 ## Recently added / 最近上架 (2026-11-21)
 
