@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**11018** tools · updated 2026-11-22
+**11033** tools · updated 2026-11-23
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-11-23)
+
+- [Florence-2](https://huggingface.co/microsoft/Florence-2-large)
+- [Seamless Communication](https://github.com/facebookresearch/seamless_communication)
+- [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)
+- [docTR](https://github.com/mindee/doctr)
+- [pgvector](https://github.com/pgvector/pgvector)
+- [ColBERT](https://github.com/stanford-futuredata/ColBERT)
+- [Ultravox](https://github.com/fixie-ai/ultravox)
+- [Pipecat](https://github.com/pipecat-ai/pipecat)
+- [LiveKit Agents](https://github.com/livekit/agents)
+- [GLiNER](https://github.com/urchade/GLiNER)
+- [Presidio](https://github.com/data-privacy-stack/presidio)
+- [DeepFace](https://github.com/serengil/deepface)
+- [BERTopic](https://github.com/MaartenGr/BERTopic)
+- [Kornia](https://github.com/kornia/kornia)
+- [AutoGluon](https://github.com/autogluon/autogluon)
 
 ## Recently added / 最近上架 (2026-11-22)
 
